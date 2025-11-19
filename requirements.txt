@@ -1,20 +1,5 @@
-<<<<<<< HEAD
-streamlit 
-pandas 
-numpy 
-matplotlib 
-scikit-learn 
-catboost 
-joblib 
-plotly 
-=======
 streamlit
 pandas
 numpy
-matplotlib
 scikit-learn
-catboost
-plotly
-joblib
->>>>>>> 68bf4f5ed7b3e50330d8b4893b968e8acfcf9160
-
+matplotlib
